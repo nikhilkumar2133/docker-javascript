@@ -11,8 +11,3 @@ Task Description 📄
 👉docker rm -f       
 👉docker exec       
 👉 add more if you want. (Optional) 
-
-
-Reference Links:-
-http://web.simmons.edu/~grovesd/comm244/notes/week3/css3-color-names
-http://web.simmons.edu/~grovesd/comm244/notes/week3/css-colors
